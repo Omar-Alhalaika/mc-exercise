@@ -20,3 +20,5 @@ We are doing well so far!
 # Final change
 Yesterday I was clever, so I wanted to change the world. Today I'm wise so I'm changing myself.
 
+# Bana change 
+I'm bana and i'm new in this team. 
